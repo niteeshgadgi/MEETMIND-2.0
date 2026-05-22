@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+memories.json
+cascadeflow_log.json
+*.log
+.streamlit/secrets.toml
